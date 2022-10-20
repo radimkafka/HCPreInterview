@@ -42,7 +42,7 @@ const getStatusPriority = (status: string) => {
   }
 };
 
-const statusPriority:Record<statuses>
+// const statusPriority:Record<statuses>
 
 const sortDeliveries = (data: Delivery[]) =>
   data.sort(
